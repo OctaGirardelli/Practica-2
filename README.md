@@ -1,3 +1,6 @@
+# Practica 2
+Este proyecto fue realizado para usarse en python 3.12.9
+
 # Como instalar las dependencias
 
 ## Creación de entorno virtual
@@ -28,3 +31,6 @@ Con el entorno virtual activado, instala las dependencias(Independientemente del
 ```bash
 $ pip install -r requirements.txt
 ```
+
+# Donde encontrar el Notebook principal
+La ruta hacia el notebook principal del proyecto es ./notebooks/simulacion_partida_shooter.ipynb
